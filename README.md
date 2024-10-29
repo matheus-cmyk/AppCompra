@@ -40,6 +40,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## 📂 Estrutura do Projeto
 
+```bash
 ├── app
 │   ├── src
 │   │   ├── main
@@ -63,6 +64,7 @@ app
 │   └── build.gradle                        # Configuração do
 Gradle
 └── README.md                               # Este arquivo
+
 
  
 ## 🎨 Design e Prototipagem
